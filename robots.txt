@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-0b76pg.kujang138gold.site/sitemap.xml
